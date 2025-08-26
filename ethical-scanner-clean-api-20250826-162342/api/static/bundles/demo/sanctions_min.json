@@ -1,0 +1,39 @@
+{
+  "as_of": "2025-08-15",
+  "jurisdictions": {
+    "RU": [
+      "US",
+      "EU",
+      "UK",
+      "CA",
+      "UN"
+    ],
+    "IR": [
+      "US",
+      "EU",
+      "UK",
+      "CA",
+      "UN"
+    ],
+    "KP": [
+      "US",
+      "EU",
+      "UK",
+      "CA",
+      "UN"
+    ],
+    "SY": [
+      "US",
+      "EU",
+      "UK",
+      "CA",
+      "UN"
+    ],
+    "CU": [
+      "US",
+      "CA",
+      "UK",
+      "EU"
+    ]
+  }
+}
